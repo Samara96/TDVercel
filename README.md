@@ -31,3 +31,8 @@
 
 19/ Un pull request permet de proposer du code à l'administrateur du projet git afin qu'il puissent autoriser ou non les modifications et les merge sur la branche cible.
  Souvent des tests sont lancés avant de merge les deux branches. Un pullRequest est tout simplement une demande de relecture de code par un pair développeur avant le merge d'une branche sur une autre.
+ 	$ command git checkout -b NewBranch # Créer une nouvelle branche
+	# Modifier le fichier README.md
+	$ git add README.md     
+	$ git commit
+	$ git push -u https://github.com/Samara96/TDVercel 
