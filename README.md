@@ -30,4 +30,4 @@
     preview pour la phase du test et developement pour la phase de conception et de dévelopement.
 
 19/ Un pull request permet de proposer du code à l'administrateur du projet git afin qu'il puissent autoriser ou non les modifications et les merge sur la branche cible.
- Souvent des tests sont lancés avant de merge les deux branches.
+ Souvent des tests sont lancés avant de merge les deux branches. Un pullRequest est tout simplement une demande de relecture de code par un pair développeur avant le merge d'une branche sur une autre.
